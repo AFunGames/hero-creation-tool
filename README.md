@@ -36,7 +36,7 @@
 
 The module can be installed from the administrator's menu as usual. If you somehow need the url for the manifest, you can install the module with the following link:
 
-```https://github.com/HeroCreationLab/hero-creation-tool/releases/latest/download/module.json```
+```https://github.com/AFunGames/hero-creation-tool/releases/latest/download/module.json```
 
 ## The Tool
 
